@@ -1,4 +1,5 @@
 #pragma once
 
+// генерирует заголовочник с версией проекта из cmake
 #cmakedefine PROJECT_VERSION_PATCH @PROJECT_VERSION_PATCH@
 
